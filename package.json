@@ -1,7 +1,7 @@
 {
-  "name": "IOS communication",
-  "version": "0.0.1",
-  "description": "Interaction between ios and node",
-  "dependencies": {}
-  "scripts" : { "start" : "node server.js" } }
+	"name": "my-ios",
+	"version": "1.2.5",
+	"scripts": {
+		"start": "node server.js"
+	}
 }
